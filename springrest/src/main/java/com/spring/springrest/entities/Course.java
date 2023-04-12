@@ -1,11 +1,11 @@
 package com.spring.springrest.entities;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+//import jakarta.persistence.Entity;
+//import jakarta.persistence.Id;
 
-@Entity
+//@Entity
 public class Course {
-	@Id
+//	@Id
 	private long id;
 	private String title;
 	private String description;
